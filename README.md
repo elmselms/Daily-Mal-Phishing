@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Strona nie została znaleziona | Allegro Lokalnie" | [http://allegrolokalnie.pl-ogloszenie-prywatne75438439342.click](https://www.criminalip.io/domain/report?scan_id=68181554) | Low | US | 2026-09-16 02:20:02 (UTC) |
-| "fatima.res9681822.pro" | [http://fatima.res9681822.pro](https://www.criminalip.io/domain/report?scan_id=68181624) | Critical | N/A | 2026-09-16 02:20:57 (UTC) |
-| "N/A" | [http://tomm-rt.top](https://www.criminalip.io/domain/report?scan_id=68181706) | Critical | N/A | 2026-09-16 02:21:38 (UTC) |
+| "Aruba Mail" | [http://tiny-peony-218b6d.netlify.app](https://www.criminalip.io/domain/report?scan_id=68355021) | Low | SG | 2026-09-17 02:20:03 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://started-ledger-live-download-eng.pages.dev](https://www.criminalip.io/domain/report?scan_id=68355077) | Low | N/A | 2026-09-17 02:20:24 (UTC) |
+| "Suspected Phishing | Cloudflare" | [http://offiical-exod-s.pages.dev](https://www.criminalip.io/domain/report?scan_id=68355335) | Low | N/A | 2026-09-17 02:20:44 (UTC) |
 
 ---
 
