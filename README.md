@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Aruba Mail" | [http://tiny-peony-218b6d.netlify.app](https://www.criminalip.io/domain/report?scan_id=68355021) | Low | SG | 2026-09-17 02:20:03 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://started-ledger-live-download-eng.pages.dev](https://www.criminalip.io/domain/report?scan_id=68355077) | Low | N/A | 2026-09-17 02:20:24 (UTC) |
-| "Suspected Phishing | Cloudflare" | [http://offiical-exod-s.pages.dev](https://www.criminalip.io/domain/report?scan_id=68355335) | Low | N/A | 2026-09-17 02:20:44 (UTC) |
+| "https://www.shopee--brands10-10.blogspot.com/" | [http://www.shopee--brands10-10.blogspot.com](https://www.criminalip.io/domain/report?scan_id=68527847) | Safe | US | 2026-09-18 02:20:02 (UTC) |
+| "블로그를 찾을 수 없습니다." | [http://www.layanan-pemenang37.blogspot.com](https://www.criminalip.io/domain/report?scan_id=68527937) | Low | US | 2026-09-18 02:20:43 (UTC) |
+| "Site not found · GitHub Pages" | [http://kusumupraity9.github.io](https://www.criminalip.io/domain/report?scan_id=68527976) | Low | US | 2026-09-18 02:21:20 (UTC) |
 
 ---
 
