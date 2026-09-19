@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "https://www.shopee--brands10-10.blogspot.com/" | [http://www.shopee--brands10-10.blogspot.com](https://www.criminalip.io/domain/report?scan_id=68527847) | Safe | US | 2026-09-18 02:20:02 (UTC) |
-| "블로그를 찾을 수 없습니다." | [http://www.layanan-pemenang37.blogspot.com](https://www.criminalip.io/domain/report?scan_id=68527937) | Low | US | 2026-09-18 02:20:43 (UTC) |
-| "Site not found · GitHub Pages" | [http://kusumupraity9.github.io](https://www.criminalip.io/domain/report?scan_id=68527976) | Low | US | 2026-09-18 02:21:20 (UTC) |
+| "Secure Wallet Login – Access" | [http://go-io-web.zapier.app](https://www.criminalip.io/domain/report?scan_id=68692578) | Low | US | 2026-09-19 02:20:14 (UTC) |
+| "410 Gone" | [http://riagban.mystagingwebsite.com](https://www.criminalip.io/domain/report?scan_id=68692597) | Low | US | 2026-09-19 02:20:45 (UTC) |
+| "N/A" | [http://www.ecsjkim.vercel.app](https://www.criminalip.io/domain/report?scan_id=68692624) | Low | US | 2026-09-19 02:21:05 (UTC) |
 
 ---
 
