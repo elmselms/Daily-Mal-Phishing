@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "Secure Wallet Login – Access" | [http://go-io-web.zapier.app](https://www.criminalip.io/domain/report?scan_id=68692578) | Low | US | 2026-09-19 02:20:14 (UTC) |
-| "410 Gone" | [http://riagban.mystagingwebsite.com](https://www.criminalip.io/domain/report?scan_id=68692597) | Low | US | 2026-09-19 02:20:45 (UTC) |
-| "N/A" | [http://www.ecsjkim.vercel.app](https://www.criminalip.io/domain/report?scan_id=68692624) | Low | US | 2026-09-19 02:21:05 (UTC) |
+| "ID-porten" | [http://helse-norge.vercel.app](https://www.criminalip.io/domain/report?scan_id=68860886) | Low | US | 2026-09-20 02:20:03 (UTC) |
+| "One moment, please..." | [http://webmail.ledger-live-application.com](https://www.criminalip.io/domain/report?scan_id=68861315) | Critical | US | 2026-09-20 02:21:04 (UTC) |
+| "Security verification - Microsoft account" | [http://security-server-page--delta2rolspan.replit.app](https://www.criminalip.io/domain/report?scan_id=68861341) | Low | US | 2026-09-20 02:21:24 (UTC) |
 
 ---
 
