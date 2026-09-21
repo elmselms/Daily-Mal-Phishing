@@ -52,9 +52,9 @@ Below is an example of the daily list format:
 
 | **Title**               | **URL**                                                                                                            | **Score**  | **Country**   | **reg_dtime**   |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|-----------------|
-| "ID-porten" | [http://helse-norge.vercel.app](https://www.criminalip.io/domain/report?scan_id=68860886) | Low | US | 2026-09-20 02:20:03 (UTC) |
-| "One moment, please..." | [http://webmail.ledger-live-application.com](https://www.criminalip.io/domain/report?scan_id=68861315) | Critical | US | 2026-09-20 02:21:04 (UTC) |
-| "Security verification - Microsoft account" | [http://security-server-page--delta2rolspan.replit.app](https://www.criminalip.io/domain/report?scan_id=68861341) | Low | US | 2026-09-20 02:21:24 (UTC) |
+| "Meta Verified - Rewards for you" | [http://verifiedbadge-clarisse.vercel.app](https://www.criminalip.io/domain/report?scan_id=69040882) | Low | US | 2026-09-21 02:20:02 (UTC) |
+| "Tencent Edgeone" | [http://advertising-account-issue-review.edgeone.dev](https://www.criminalip.io/domain/report?scan_id=69040897) | Low | SG | 2026-09-21 02:20:43 (UTC) |
+| "Deployment Unavailable" | [http://www.login-ten-silk.vercel.app](https://www.criminalip.io/domain/report?scan_id=69040898) | Low | US | 2026-09-21 02:21:04 (UTC) |
 
 ---
 
